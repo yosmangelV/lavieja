@@ -6,6 +6,7 @@ Esto es un juego llamado 3 en linea o la vieja (así le decimos en Venezuela), e
 ***
 ##Pasos de intalación
 
+### *Proyecto de en Laravel 5.6
 Luego de clonar el proyecto realizamos el 
 
 * `composer install`
